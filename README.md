@@ -1,4 +1,4 @@
-### Hi there this is Jiganesh 👋
+### Hi there, This is Jiganesh 👋
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,20 +16,18 @@ Here are some ideas to get you started:
 -->
 ### About me :
 
-I dig 🕵️‍♀️up real-world problems🌍and find solutions for them. I love to create and modify new products and projects.
+I dig 🕵️‍♀️up real-world problems🌍and find solutions for them. 
 
-🕹To accomplish this, I focus on my problem-solving skill and trend awareness.
+I love to create and modify new products and projects.
 
-I am a Core Member of Automation and Robotics Cell, 👨‍🏭 and I observe this opportunity to build projects related to Automation and Robotics and show my creativity🎠 and thoughtfulness👨‍💻 with Teamwork.
+🕹I focus on my problem-solving skill and trend awareness.
 
-I love to share my knowledge and experience in workshops organized for students interested in this trend.👨‍🏫 Engaging in such activities helps to develop my communication and leadership skills.
+I Build Autonoumous and Manual Robots.
+
+I love to share my knowledge and experience in workshops organized for students interested in this trend. 
 
 Always excited and ready to learn new skills👨‍🎓.
 
-Send me an email: jpatil0107@gmail.com
-Give a call at 📲 +91 90757 35639
+Send me an email: jpatil0107@gmail.com      Give a call at 📲 +91 90757 35639
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=radical&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
