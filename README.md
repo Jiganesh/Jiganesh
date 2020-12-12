@@ -28,3 +28,6 @@ Always excited and ready to learn new skills👨‍🎓.
 Send me an email: jpatil0107@gmail.com
 
 Give a call at 📲 +91 90757 35639
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh)](https://github.com/anuraghazra/github-readme-stats)
+
