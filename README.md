@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is Jiganesh 👋
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me :
+
 I dig 🕵️‍♀️up real-world problems🌍and find solutions for them. I love to create and modify new products and projects.
 
 🕹To accomplish this, I focus on my problem-solving skill and trend awareness.
@@ -22,12 +24,12 @@ I am a Core Member of Automation and Robotics Cell, 👨‍🏭 and I observe th
 
 I love to share my knowledge and experience in workshops organized for students interested in this trend.👨‍🏫 Engaging in such activities helps to develop my communication and leadership skills.
 
-
 Always excited and ready to learn new skills👨‍🎓.
 
 Send me an email: jpatil0107@gmail.com
-
 Give a call at 📲 +91 90757 35639
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh)](https://github.com/anuraghazra/github-readme-stats)
 
