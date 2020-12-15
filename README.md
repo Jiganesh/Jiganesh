@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+***
 ### About me :
 
 - I dig up 🕵️‍♀️real-world problems🌍and find solutions for them. 
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 - I Build Autonoumous and Manual Robots.
 - I love to share my knowledge and experience in workshops organized for students interested in this trend. 
 
+***
 Always excited and ready to learn new skills👨‍🎓.
 
 Send me an email: jpatil0107@gmail.com 
