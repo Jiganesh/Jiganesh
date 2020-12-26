@@ -29,4 +29,4 @@ Send me an email: jpatil0107@gmail.com
 
 Give a call at 📲 +91 90757 35639
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
