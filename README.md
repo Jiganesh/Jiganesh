@@ -7,11 +7,10 @@ Here are some ideas to get you started:
 -->
 ***
 
-- 🔭 I’m currently working on my Competitive Programming SKills
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me: Details available below do checkout
-- ⚡ Fun fact: I am a Mechanical Engineer XD
+- 👨‍💻 I’m currently working on my Competitive Programming SKills
+- 🤯 I’m currently learning DSA
+- 🤩 I’m looking to collaborate on Web Development Projects
+- 👨‍🏭 Fun fact: I am a Mechanical Engineer XD
 
 ***
 ### About me :
