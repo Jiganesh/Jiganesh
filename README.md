@@ -28,8 +28,5 @@ Send me an email: jpatil0107@gmail.com
 
 Give a call at 📲 +91 90757 35639
 
-<<<<<<< HEAD
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-=======
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> 2ef62ec2c9ab6d33455d1ee8d6f419b26161166a
+
