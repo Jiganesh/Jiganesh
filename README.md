@@ -32,3 +32,6 @@ Give a call at 📲 +91 90757 35639
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
