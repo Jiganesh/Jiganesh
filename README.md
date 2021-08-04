@@ -1,4 +1,4 @@
-### Hi there 👋, This is Jiganesh .
+### Hello World <img src="https://github.com/Jiganesh/Jiganesh/blob/master/Assets/Hi.gif" width="32px">  This is Jiganesh.
 
 
 <!--
@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 ***
 
-- 👨‍💻 I’m currently working on my Competitive Programming SKills
+- 👨‍💻 I’m currently working on my Competitive Programming and Problem Solving Skills.
 - 🤯 I’m currently learning DSA
 - 🤩 I’m looking to collaborate on Web Development Projects
-- 👨‍🏭 Fun fact: I am a Mechanical Engineer XP
+- 👨‍🏭 **Mechanical Graduate** and **Software Developer**
 
 ***
 ### About me :
@@ -34,4 +34,7 @@ Give a call at 📲 +91 90757 35639
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br><br>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
