@@ -1,5 +1,7 @@
-### Hello World <img src="https://github.com/Jiganesh/Jiganesh/blob/master/Assets/Hi.gif" width="32px">  This is Jiganesh.
+### Hello World <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="32px">  This is Jiganesh.
 
+
+<img align="right" alt="PC GIF" src="Assets/codingisfun.gif" width="190" />
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +33,7 @@ Give a call at 📲 +91 90757 35639
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
