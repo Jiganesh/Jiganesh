@@ -1,7 +1,4 @@
-### Hello World <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="32px">  This is Jiganesh.
-
-
-<img align="right" alt="PC GIF" src="Assets/codingisfun.gif" width="190" />
+# Hello World <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="32px">  This is Jiganesh.
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
