@@ -1,4 +1,4 @@
-# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="32px">  This is **Jiganesh**.
+# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="35px">  This is **Jiganesh**.
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 - 👨‍💻 I’m currently working on my **Competitive Programming** and **Problem Solving Skills**.
-- 🤯 I’m currently learning **DSA**
+- 🤯 I’m currently learning advanced **DataStructures and Algorithms**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
 - 👨‍🏭 **Mechanical Graduate** and **Software Developer**
 
@@ -32,7 +32,7 @@ Always excited and ready to learn new skills👨‍🎓.
 [![Jiganesh's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme=dark&)](https://github.com/Jiganesh)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark)](https://github.com/Jiganesh)
+[![Jiganesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark)](https://github.com/Jiganesh)
 
 <br>
 
