@@ -1,5 +1,4 @@
-# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="35px">  This is **Jiganesh**.
-
+# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px">  
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +25,7 @@ Always excited and ready to learn new skills👨‍🎓.
 
 **Send me an email** : jpatil0107@gmail.com 
 
-**Give a call at 📲** <a href="tel:+919075735639">9075 735 639</a>
+**Give a call at 📲** <a href="tel:9075735639">9075 735 639</a>
 
 
 [![Jiganesh's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme=dark&)](https://github.com/Jiganesh)
