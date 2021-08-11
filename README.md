@@ -35,4 +35,4 @@ Always excited and ready to learn new skills👨‍🎓.
 
 <br>
 
-<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" height="300">
+<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1050" height="260">
