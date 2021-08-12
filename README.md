@@ -42,7 +42,7 @@ Always excited and ready to learn new skills👨‍🎓.
   
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark" />
 </p>
 
 <br>
