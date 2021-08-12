@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-
 - 👨‍💻 I’m currently working on my **Competitive Programming** and **Problem Solving Skills**.
 - 🤯 I’m currently learning advanced **DataStructures and Algorithms**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
@@ -38,13 +37,16 @@ Always excited and ready to learn new skills👨‍🎓.
 **Give a call at 📲** : <a href="tel:+919075735639">9075-735-639</a>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark" />
   
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark" />
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=python&theme=dark" />
+
+
+
 </p>
-
-<br>
 
 <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
