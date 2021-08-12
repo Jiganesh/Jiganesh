@@ -38,12 +38,11 @@ Always excited and ready to learn new skills👨‍🎓.
 **Give a call at 📲** : <a href="tel:+919075735639">9075-735-639</a>
 
 <p align="center">
-<img width="92%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark" />
   
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark" />
-
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark" />
 </p>
 
 <br>
