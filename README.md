@@ -25,7 +25,7 @@ Always excited and ready to learn new skills👨‍🎓.
 
 **Send me an email** : jpatil0107@gmail.com 
 
-**Give a call at 📲** <a href="tel:9075735639">9075 735 639</a>
+**Give a call at 📲**<a href="tel:+919075735639">9075-735-639</a>
 
 
 [![Jiganesh's github stats](https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&hide=contribs,issues&theme=dark&)](https://github.com/Jiganesh)
