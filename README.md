@@ -45,11 +45,11 @@ Always excited and ready to learn new skills👨‍🎓.
 **Give a call at 📲** : <a href="tel:+919075735639">9075-735-639</a>
 
 <p align="centre">
-<a href="https://github.com/Jiganesh">
+<a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark" /></a>
   
-<a href="https://github.com/Jiganesh">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" /></a>
+<a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" /></a>
 
 <a href ="https://github.com/Jiganesh">
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark"/></a>
