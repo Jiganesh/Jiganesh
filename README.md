@@ -1,4 +1,4 @@
-<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Banner.gif" width="980">
+<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Banner.gif" width="980px">
 
 <br>
 
