@@ -1,3 +1,7 @@
+<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Banner.gif">
+
+<br>
+
 # **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px">
 
 <!--
@@ -41,7 +45,7 @@ Always excited and ready to learn new skills👨‍🎓.
 
 **Send me an email** : jpatil0107@gmail.com
 
-**Give a call at 📲** : <a href="tel:+919075735639">9075-735-639</a>
+**Give a call at 📲** : <a href="tel:+919075735639">9075735639</a>
 
 <p align="centre">
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
