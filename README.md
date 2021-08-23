@@ -1,6 +1,3 @@
-<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Banner.gif" width="980px">
-
-<br>
 
 # **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px">
 
@@ -31,18 +28,25 @@ Here are some ideas to get you started:
 -->
 
 ---
-## About me :
+## **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
 - I 😍love to **create and modify new products** and projects👨‍💻.
 - I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
 - I **build** Autonoumous and Manual **Robots**🤺.
 - I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
+- Always excited and ready to learn new skills👨‍🎓.
+
+---
+## **My Skills** :
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-Always excited and ready to learn new skills👨‍🎓.
-
+## **I'm shy, Please come say hi.** 🤗
 **Send me an email** : jpatil0107@gmail.com
 
 **Give a call at 📲** : <a href="tel:+919075735639">9075735639</a>
