@@ -1,5 +1,7 @@
+<link href="style.css" rel="stylesheet"></link>
 
 # **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px">
+
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,11 +40,31 @@ Here are some ideas to get you started:
 - Always excited and ready to **learn new skills👨‍🎓**.
 
 ---
-## **My Skills** :
+
+## **Languages and Tools** :
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+
+<p class="skills">
+<img  class="no-margin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" >
+
+
+<img class="no-margin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" >
+
+<img class="no-margin"  src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px heigth=50px>
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" >
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+
+</p>
 
 <hr>
 
@@ -54,6 +76,12 @@ Here are some ideas to get you started:
 
 <hr><br>
 
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+<p align="centre">
+<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=S,A,AA,AAA,SECRET,B&row=1&column=&margin-w= 10&theme=flat&no-frame=true" alt="Jiganesh"/></a>
+</p>
 
 <p align="centre">
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
