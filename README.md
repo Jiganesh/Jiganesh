@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
 &nbsp
 
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px" height="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 
 </p>
 
@@ -69,9 +69,7 @@ Here are some ideas to get you started:
 
 **Give a call at 📲** : <a href="tel:+919075735639">9075735639</a>
 
-<hr><br>
-
-
+## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="centre">
