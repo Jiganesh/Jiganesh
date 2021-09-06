@@ -41,17 +41,12 @@ Here are some ideas to get you started:
 
 ---
 
-## **Languages and Tools** 
+## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
+<p>
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
 
-
-
-<p class="skills">
-<img  class="no-margin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
-
-
-<img class="no-margin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px" >
 
@@ -65,25 +60,20 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
 &nbsp
 
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px" height="40px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 
 </p>
 
-<hr>
-
 ## **Wanna know more about me?** 
-
 **Send me an email** : jpatil0107@gmail.com
 
 **Give a call at 📲** : <a href="tel:+919075735639">9075735639</a>
 
-<hr><br>
-
-
+## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="centre">
-<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=S,A,AA,AAA,SECRET,B&row=1&column=&margin-w= 10&theme=flat&no-frame=true" alt="Jiganesh"/></a>
+<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=S,A,AA,AAA,SECRET,B&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
 </p>
 
 <p align="centre">
