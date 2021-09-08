@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 - I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
 - Always excited and ready to **learn new skills👨‍🎓**.
 
----
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
