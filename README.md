@@ -2,7 +2,6 @@
 
 # **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px">
 
-
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-## **About me** :
+# **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
 - I 😍love to **create and modify new products** and projects👨‍💻.
