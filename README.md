@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-<!--Contribution Graph-->
+<!-- Contribution Graph-->
 [![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode)](https://github.com/Jiganesh)
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
