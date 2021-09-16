@@ -1,6 +1,10 @@
 <link href="style.css" rel="stylesheet"></link>
 
-# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px">
+# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px"> 
+
+<!-- Followers -->
+![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat-square) <br>
+
 
 
 <!--
