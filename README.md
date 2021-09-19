@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 
 ---
 
+<!--Contribution Graph-->
+[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode)](https://github.com/Jiganesh)
+
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
 
@@ -76,7 +79,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=S,A,AA,AAA,SECRET,B&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
 </p>
 
-[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode)](https://github.com/Jiganesh)
+
 
 
 <p align="centre">
