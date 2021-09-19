@@ -1,6 +1,10 @@
 <link href="style.css" rel="stylesheet"></link>
 
-# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px">
+# **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px"> 
+
+<!-- Followers -->
+![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat-square) <br>
+
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 - Always excited and ready to **learn new skills👨‍🎓**.
 
 
-<!--Contribution Graph-->
+<!-- Contribution Graph-->
 [![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode)](https://github.com/Jiganesh)
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
