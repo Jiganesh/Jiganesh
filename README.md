@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 - Always excited and ready to **learn new skills👨‍🎓**.
 
 
+<!--Contribution Graph-->
+[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode)](https://github.com/Jiganesh)
+
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
 
@@ -73,6 +76,9 @@ Here are some ideas to get you started:
 <p align="centre">
 <a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
 </p>
+
+
+
 
 <p align="centre">
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
