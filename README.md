@@ -43,21 +43,28 @@ Here are some ideas to get you started:
 - Always excited and ready to **learn new skills👨‍🎓**.
 
 
----
-
-
 <!-- Contribution Graph-->
 [![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode)](https://github.com/Jiganesh)
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
+<p>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
+
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px" height="40px" >
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40px" height="40px">&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px >&nbsp 
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px"> &nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> &nbsp
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40px" height="40px">
+ &nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px > &nbsp 
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40px" height="40px"> 
+&nbsp
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
+&nbsp
+
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 
 </p>
@@ -73,16 +80,20 @@ Here are some ideas to get you started:
 <p align="centre">
 <a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
 </p>
+
+
 <p align="centre">
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark" /></a> 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark" /></a>
+  
 <a href="https://github.com/Jiganesh">
-<img width="48%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" /></a>
+<img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" /></a>
 
 <a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&langs_count=10&theme=dark"/></a>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark"/></a>
+
 <a href="https://github.com/Jiganesh/Python" title="Redirect's to Python Repository">
-<img width="54%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=python&theme=dark" /></a>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=python&theme=dark" /></a>
 
 </p>
 
