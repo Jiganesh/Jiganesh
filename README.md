@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" /></a>
 
 <a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark"/></a>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark&langs_count=10"/></a>
 
 <a href="https://github.com/Jiganesh/Python" title="Redirect's to Python Repository">
 <img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=python&theme=dark" /></a>
