@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 <!-- Contribution Graph-->
-[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode)](https://github.com/Jiganesh)
+[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Jiganesh)
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
@@ -84,16 +84,16 @@ Here are some ideas to get you started:
 
 <p align="centre">
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=D3D3D3&title_color=ACB8F1" /></a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 <a href="https://github.com/Jiganesh">
-<img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark" /></a>
+<img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&hide_border=true&stroke=0000" /></a>
 
 <a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiganesh&layout=compact&theme=dark&langs_count=10&text_color=FFFFFF&icon_color=ACB8F1&title_color=ACB8F1"/></a>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiganesh&layout=compact&theme=dark&langs_count=10&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 <a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=jiganesh&repo=leetcode&theme=dark&text_color=D3D3D3&icon_color=ACB8F1&title_color=ACB8F1" /></a>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=jiganesh&repo=leetcode&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 
 
