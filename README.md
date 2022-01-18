@@ -3,7 +3,7 @@
 # **Hello World** !! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="37px"> 
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=DAILY PROFILE VIEWS&color=red&style=flat" alt="jiganesh"/>
+![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -103,3 +103,20 @@ Here are some ideas to get you started:
 </p>
 
 <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
+
+
+
+<!--Future Improvements
+
+
+<p align="center">
+	<a href="https://ekramasif.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/ekramasif" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ekramasif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/ekram.asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ekram_asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:mdekramuddin23@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+
+-->
