@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="35px" height="35px">
+
 </p>
 
 ## **Wanna know more about me?** 
