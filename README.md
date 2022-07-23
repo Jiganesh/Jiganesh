@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 90%>
+<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%>
 
 
 
