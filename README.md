@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-# **Hello World** !! 🙌 <!-- <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="38px"> --> 
+# **Hello World** !!! 🙌 <!-- <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="38px"> --> 
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
   
 <a href="https://github.com/Jiganesh">
 <img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
