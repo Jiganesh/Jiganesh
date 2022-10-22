@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-# **Hello World** !!! 🙌 <!-- <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="38px"> --> 
+# **Hello World** !!! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="30px">
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
----
+
 # **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
@@ -119,3 +119,4 @@ Here are some ideas to get you started:
 </p>
 
 -->
+
