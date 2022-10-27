@@ -48,7 +48,14 @@ Here are some ideas to get you started:
 <!-- Contribution Graph-->
 [![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Jiganesh)
 
+
+<details>
+
+<summary> Sticker Board </summary>
+
 [![@jiganesh's Holopin board](https://holopin.me/jiganesh)](https://holopin.io/@jiganesh)
+
+</details>
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
@@ -92,7 +99,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
-  
+
 <a href="https://github.com/Jiganesh">
 <img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
 
