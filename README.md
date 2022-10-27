@@ -1,12 +1,13 @@
 <link href="style.css" rel="stylesheet"></link>
 
-# **Hello World** !!! 🙌 <!-- <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="38px"> --> 
+# **Hello World** !!! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="30px">
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 -->
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
----
+
 # **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
@@ -46,6 +47,8 @@ Here are some ideas to get you started:
 
 <!-- Contribution Graph-->
 [![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Jiganesh)
+
+[![@jiganesh's Holopin board](https://holopin.me/jiganesh)](https://holopin.io/@jiganesh)
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
@@ -93,6 +96,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jiganesh">
 <img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
 
+
 <a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
@@ -120,3 +124,4 @@ Here are some ideas to get you started:
 </p>
 
 -->
+
