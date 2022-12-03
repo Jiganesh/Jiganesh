@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
-<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
+<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=SSS, SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
 </p>
 
 
