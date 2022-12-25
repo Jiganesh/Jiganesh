@@ -12,8 +12,8 @@
 Here are some ideas to get you started:
 -->
 
-- 👨‍💻 I’m currently working on my **Competitive Programming** and **Problem Solving Skills**.
-- 🤯 I’m currently learning advanced **DataStructures and Algorithms**
+- 👨‍💻 I’m currently working on my **System Design** and **Development Skills**.
+- 🤯 I’m currently learning advanced **Architectures**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
 - 👨‍🏭 **Mechanical Graduate** and **Software Developer** 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 # **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
-- I 😍love to **create and modify new products** and projects👨‍💻.
+- I 😍love to **create and modify new products** and **projects**👨‍💻.
 - I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
 - I **build** Autonoumous and Manual **Robots**🤺.
 - I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
