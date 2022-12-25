@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 - I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
 - Always excited and ready to **learn new skills👨‍🎓**.
 
+<!-- Heruko Application Error - Contribution Graph
+[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jiganesh&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Jiganesh)
+ -->
 
-<!-- Contribution Graph-->
-[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiganesh&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Jiganesh)
 
-
-
+[![Jiganesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiganesh&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![@jiganesh's Holopin board](https://holopin.me/jiganesh)](https://holopin.io/@jiganesh)
 
