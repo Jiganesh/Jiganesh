@@ -49,7 +49,6 @@ Here are some ideas to get you started:
  -->
 
 
-[![Jiganesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiganesh&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![@jiganesh's Holopin board](https://holopin.me/jiganesh)](https://holopin.io/@jiganesh)
 
@@ -109,6 +108,14 @@ Here are some ideas to get you started:
 
 
 </p>
+
+<details>
+<summary> <bold>CLICK TO WATCH CONTRIBUTION GRAPH </bold> </summary>
+
+
+[![Jiganesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiganesh&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
 
 
 <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%>
