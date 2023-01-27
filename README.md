@@ -12,8 +12,8 @@
 Here are some ideas to get you started:
 -->
 
-- 👨‍💻 I’m currently working on my **Competitive Programming** and **Problem Solving Skills**.
-- 🤯 I’m currently learning advanced **DataStructures and Algorithms**
+- 👨‍💻 I’m currently working on my **System Design** and **Development Skills**.
+- 🤯 I’m currently learning advanced **Architectures**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
 - 👨‍🏭 **Mechanical Graduate** and **Software Developer** 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 # **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
-- I 😍love to **create and modify new products** and projects👨‍💻.
+- I 😍love to **create and modify new products** and **projects**👨‍💻.
 - I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
 - I **build** Autonoumous and Manual **Robots**🤺.
 - I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
@@ -91,13 +91,16 @@ Here are some ideas to get you started:
 </p>
 
 
+<!-- The cards -->
+
+
 <p align="center">
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 
 <a href="https://github.com/Jiganesh">
-<img width="49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width=50%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 
 <a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
