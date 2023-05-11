@@ -34,6 +34,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.chess.com/member/patiljiganesh">
+	<img src= "https://img.shields.io/badge/Chess-769656?style=for-the-badge&logo=lichess&logoColor=white">
+</a>
+
+
 
 # **About me** :
 
@@ -82,6 +87,10 @@ Here are some ideas to get you started:
 **Send me an email** : jpatil0107@gmail.com
 
 **Give a call at 📲** : <a href="tel:+919075735639">9075735639</a>
+
+<a href="https://jiganesh.sayout.net/">
+	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
+</a>
 
 ## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
