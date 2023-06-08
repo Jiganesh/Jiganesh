@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 <summary> <bold>CLICK TO WATCH CONTRIBUTION GRAPH </bold> </summary>
 
 
-[![Jiganesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiganesh&theme=react-dark&area_color=4b889bad)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Jiganesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiganesh&theme=react-dark&area_color=4b889bad)
 
 </details>
 
