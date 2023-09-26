@@ -86,8 +86,6 @@ Here are some ideas to get you started:
 ## **Wanna know more about me?** 
 **Send me an email** : jpatil0107@gmail.com
 
-**Give a call at 📲** : <a href="tel:+919075735639">9075735639</a>
-
 <a href="https://jiganesh.sayout.net/">
 	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
 </a>
