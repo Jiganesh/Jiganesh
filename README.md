@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 
 
+
 # **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
@@ -102,13 +103,12 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+
 <a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
-
 <a href="https://github.com/Jiganesh">
 <img width= "49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
-
 
 <a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
@@ -116,6 +116,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
 <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=leetcode&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
+<a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
+<img width="53%" src="https://leetcard.jacoblin.cool/Jiganesh" /></a>
+
+<a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
+<img width="42%" src="https://www.chess.com/share/user/patiljiganesh" /></a>
 
 </p>
 
