@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-# **Hello World** !!! <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Hi.gif" width="30px">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&width=435&lines=%3CHello+World%2C+Jiganesh+here!%2F%3E)
 
 <!-- Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
@@ -116,10 +116,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
 <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=leetcode&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
-<a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
+<a href="https://github.com/Jiganesh" title="Redirects to github page">
 <img width="53%" src="https://leetcard.jacoblin.cool/Jiganesh" /></a>
 
-<a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
+<a href="https://github.com/Jiganesh" title="Redirects to github page">
 <img width="42%" src="https://www.chess.com/share/user/patiljiganesh" /></a>
 
 </p>
